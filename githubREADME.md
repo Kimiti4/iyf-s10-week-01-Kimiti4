@@ -1,4 +1,4 @@
-# Week 01: Personal Portfolio Website
+# Week 01: Introduction to Git and GitHub
 
 ## Author
 - **Name:** Amos Kimiti  
@@ -6,44 +6,27 @@
 - **Date:** February 24, 2026  
 
 ## Project Description
-This project is a multi-page personal portfolio website built as part of Week 01 coursework.  
-The goal was to practice writing clean HTML, using semantic elements, building accessible pages, and deploying a static site using GitHub Pages.
+This project is a beginner-friendly introduction to Git and GitHub designed to help new learners understand version control and collaborative workflows.
 
-The site includes a home page, about page, projects showcase, and a contact page with a fully structured and accessible contact form.
+The guide explains core concepts such as repositories, commits, branches, and pull requests, and walks learners through their first GitHub workflow using both the command line and the GitHub web interface. It is written to be accessible even to learners with no prior programming experience.
 
 ## Technologies Used
-- HTML5
-- VSCode
-- Chrome Developer Tools
-- Git & GitHub
-- GitHub Pages
+- Git
+- GitHub
+- Markdown
+- Command Line (Terminal / PowerShell)
 
 ## Features
-- Semantic HTML structure using modern HTML elements
-- Accessible navigation and content (labels, alt text, proper headings)
-- Multi-page layout (Home, About, Projects, Contact)
-- Fully functional contact form with validation
-- Deployed live using GitHub Pages
+- Clear explanation of Git and GitHub concepts
+- Step-by-step setup instructions for Git
+- Beginner-friendly Git workflow examples
+- Glossary of common Git/GitHub terms
+- Practical tasks and learning resources
+- Common mistakes with solutions
 
 ## How to Run
-1. Clone this repository:
+This is a documentation-based project.
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/Kimiti4/iyf-s10-week-01-Kimiti4.git
-
-## Lessons Learned
-
-- Using Semantic HTML to structure web pages
-- How to deploy live static site on Github
-- Creating HTML forms, contact forms
-- 
-
-## Challenges Faced
-- Resolving Git push conflicts when the remote repository had changes
-- Editing poorly written code into Semantic HTML
-- Inserting a picture into GitHub
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-- [My Webpage](https://kimiti4.github.io/iyf-s10-week-01-Kimiti4/)
+   git clone https://github.com/your-username/your-repo-name.git
