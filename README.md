@@ -1,5 +1,4 @@
-# Week 01: Personal Portfolio Website
-
+# Week 01: Web Foundations
 ## Author
 - **Name:** Amos Kimiti  
 - **GitHub:** [@Kimiti4](https://github.com/Kimiti4)  
