@@ -29,3 +29,21 @@ The site includes a home page, about page, projects showcase, and a contact page
 1. Clone this repository:
    ```bash
    git clone https://github.com/Kimiti4/iyf-s10-week-01-Kimiti4.git
+
+## Lessons Learned
+
+- Using Semantic HTML to structure web pages
+- How to deploy live static site on Github
+- Creating HTML forms, contact forms
+- 
+
+## Challenges Faced
+- Resolving Git push conflicts when the remote repository had changes
+- Editing poorly written code into Semantic HTML
+- Inserting a picture into GitHub
+
+## Screenshots (optional)
+![Screenshot description](path/to/screenshot.png)
+
+## Live Demo (if deployed)
+- [My Webpage](https://kimiti4.github.io/iyf-s10-week-01-Kimiti4/)
