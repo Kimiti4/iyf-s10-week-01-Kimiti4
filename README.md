@@ -13,7 +13,8 @@ The site includes a home page, about page, projects showcase, and a contact page
 
 ## Technologies Used
 - HTML5
-- CSS3
+- VSCode
+- Chrome Developer Tools
 - Git & GitHub
 - GitHub Pages
 
