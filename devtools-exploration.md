@@ -41,6 +41,7 @@
    -`<input id="mw-input-forceMentor" name="forceMentor" type="hidden">`<br>
    
 3.
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/f3d17206-0a64-4817-a7ed-5493059a87d0" />
 
 
 Task 1.3: Your First Webpage 🟢
