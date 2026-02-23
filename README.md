@@ -26,9 +26,9 @@ The site includes a home page, about page, projects showcase, and a contact page
 - Deployed live using GitHub Pages
 
 ## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Kimiti4/iyf-s10-week-01-Kimiti4.git
+1. ## How to Run
+`This is a static HTML project.  
+Simply open `index.html` in your browser, or visit the live demo link below.`
 
 ## Lessons Learned
 
