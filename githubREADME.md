@@ -5,7 +5,8 @@
 ### Naming Convention
 Name your repository following this format:
 ```
-iyf-s10-week-{number}-{your-github-username}
+iyf-s10-week-01-Kimiti4
+https://github.com/Kimiti4
 ```
 
 **Examples:**
