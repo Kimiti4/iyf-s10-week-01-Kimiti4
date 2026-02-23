@@ -46,37 +46,14 @@ Task 1.2: DevTools Exploration 🟢
 
 
 Task 1.3: Your First Webpage 🟢
-
+-[My Webpage] (https://kimiti4.github.io/iyf-s10-week-01-Kimiti4/)
 
 Task 1.4: Deploy to GitHub Pages 🟡
 
 
 Lesson 2 Tasks
 Task 2.1: Semantic HTML Conversion 🟡
-```html
-<!-- BAD: Non-semantic version -->
-<div class="header">
-    <div class="logo">My Site</div>
-    <div class="nav">
-        <div class="nav-item">Home</div>
-        <div class="nav-item">About</div>
-        <div class="nav-item">Contact</div>
-    </div>
-</div>
-<div class="main">
-    <div class="article">
-        <div class="title">Welcome to My Site</div>
-        <div class="text">This is my first paragraph...</div>
-        <div class="text">This is my second paragraph...</div>
-    </div>
-    <div class="sidebar">
-        <div class="widget">Recent Posts</div>
-    </div>
-</div>
-<div class="footer">
-    <div class="copyright">© 2026</div>
-</div>
-```
+
 
 
      
