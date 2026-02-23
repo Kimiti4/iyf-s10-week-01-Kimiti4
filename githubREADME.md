@@ -1,44 +1,4 @@
-# Submission Guidelines - Season 10
-
-## Repository Setup
-
-### Naming Convention
-Name your repository following this format:
-```
-iyf-s10-week-{number}-{your-github-username}
-```
-
-**Examples:**
-- `iyf-s10-week-01-MaisoriKitayama`
-- `iyf-s10-week-05-MaisoriKitayama`
-
-For team projects, use the team lead's username:
-```
-iyf-s10-week-{number}-team-{team-lead-username}
-```
-
----
-
-## Required Files
-
-### Every Repository Must Have:
-
-```
-your-repo/
-├── README.md          # Required
-├── index.html         # Or appropriate main file
-├── CONTRIBUTORS.md    # Required for team projects only
-└── ... other files
-```
-
----
-
-## README.md Template
-
-Your README must include these sections:
-
-```markdown
-# Week {Number}: {Project Title}
+# Week 01: Introduction to Git and GitHub
 
 ## Author
 - **Name:** Amos Kimiti  
@@ -66,3 +26,7 @@ The guide explains core concepts such as repositories, commits, branches, and pu
 
 ## How to Run
 This is a documentation-based project.
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
