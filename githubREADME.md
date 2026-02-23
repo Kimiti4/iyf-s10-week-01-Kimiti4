@@ -66,7 +66,3 @@ The guide explains core concepts such as repositories, commits, branches, and pu
 
 ## How to Run
 This is a documentation-based project.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
