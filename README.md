@@ -42,7 +42,7 @@ Simply open `index.html` in your browser, or visit the live demo link below.`
 - Inserting a picture into GitHub
 
 ## Screenshots (optional)
-![Screenshot description]([path/to/screenshot.png](https://github.com/Kimiti4/iyf-s10-week-01-Kimiti4/blob/main/images/Screenshot%20(5).png))
+![Screenshot description](images/Screenshot%20(5).png)
 
 ## Live Demo (if deployed)
 - [My Webpage](https://kimiti4.github.io/iyf-s10-week-01-Kimiti4/)
