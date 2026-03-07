@@ -1,8 +1,8 @@
-# Week 03: Web Foundations
+# Week 01: Web Foundations
 ## Author
 - **Name:** Amos Kimiti  
 - **GitHub:** [@Kimiti4](https://github.com/Kimiti4)  
-- **Date:** March 7th, 2026  
+- **Date:** February 24, 2026  
 
 ## Project Description
 This project is a multi-page personal portfolio website built as part of Week 01 coursework.  
