@@ -162,7 +162,23 @@ nav a[aria-current="page"] {
    HERO
 ========================= */
 .hero {
+<<<<<<< HEAD
   padding: 40px 0;
+=======
+  padding: 20px 0;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  
+}
+
+/* Projects grid */
+.grid {
+>>>>>>> 1a24eb66d7c72ea55bff83b827a291a35ef1c418
   display: grid;
   gap: 24px;
   align-items: center;
