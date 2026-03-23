@@ -32,7 +32,17 @@
   --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.15);
   --shadow-md: 0 10px 20px rgba(0, 0, 0, 0.12);
 }
-
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
 body {
   font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   font-size: 16px;
@@ -42,12 +52,16 @@ body {
 }
 body.projects-page,
 body.contact-page {
-  background: linear-gradient(
-    to bottom,
-    var(--color-background),
-    #e0f2fe
+    background: linear-gradient(
+    270deg,
+    #f8fafc,
+    #e0f2fe,
+    #f8fafc
   );
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
 }
+
 
 .container {
   width: min(1000px, 90%);
@@ -55,11 +69,27 @@ body.contact-page {
   padding: 20px 0;
 }
 body.home-page {
-  background-color: #f8fafc;
+    background: linear-gradient(
+    270deg,
+    #f8fafc,
+    #e0f2fe,
+    #f8fafc
+  );
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
 }
 
+
 body.about-page {
-  background-color: #fefce8;
+    background: linear-gradient(
+    270deg,
+    #f8fafc,
+    #e0f2fe,
+    #f8fafc
+  );
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+
 }
 
 
